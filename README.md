@@ -7,12 +7,8 @@ This is a complete advanced clinic-management academic prototype with:
 - Patients, doctors, nurses, appointments, consultations, prescriptions, lab, pharmacy, billing, inventory, reports, AI assistant
 - Local stable backend API health/login endpoint
 - Python AI service for safe medical-orientation answers
-
-## Run
-1. Extract to a simple path such as `C:\SmartClinic_ClinicOS_PROPER_LOGIC_UI`
-2. Run `install.bat`
-3. Run `start_all.bat`
-4. Open `http://127.0.0.1:5173`
+- ## 🚀 Live Demo
+https://smart-clinic-web-app.vercel.app`
 
 ## Login accounts
 All passwords: `password`
