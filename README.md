@@ -1,26 +1,67 @@
-# SmartClinic ClinicOS Pro
+# 🧠 SmartClinic — Intelligent Medical Management System
 
-This is a complete advanced clinic-management academic prototype with:
-- Modern clean React interface
-- Role-based workspaces: Admin, Doctor, Nurse, Secretary, Patient, Pharmacist, Lab
-- No manual doctor_id / patient_id fields: users select names, IDs are internal
-- Patients, doctors, nurses, appointments, consultations, prescriptions, lab, pharmacy, billing, inventory, reports, AI assistant
-- Local stable backend API health/login endpoint
-- Python AI service for safe medical-orientation answers
-- ## 🚀 Live Demo
-https://smart-clinic-web-app.vercel.app`
+<p align="center">
+  <a href="https://smart-clinic-web-app.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
 
-## Login accounts
-All passwords: `password`
+---
 
-- admin@smartclinic.test
-- doctor@smartclinic.test
-- nurse@smartclinic.test
-- secretary@smartclinic.test
-- pharmacist@smartclinic.test
-- lab@smartclinic.test
-- patient@smartclinic.test
+## 🚀 Overview
 
-## Important note
-This is an academic prototype and not certified for real medical production use.
-A real clinic deployment needs legal compliance, real database hardening, backups, encryption, audit logs, medical validation, and professional security testing.
+SmartClinic est une application web intelligente dédiée à la gestion des cabinets médicaux.  
+Elle permet de centraliser les données patients, les consultations et d’intégrer une logique d’aide médicale.
+
+---
+
+## 🌐 Live Application
+
+👉 https://smart-clinic-web-app.vercel.app/
+
+---
+
+## ✨ Key Features
+
+- 👨‍⚕️ Gestion des patients
+- 📅 Rendez-vous & planning
+- 📋 Consultations médicales
+- 🧾 Ordonnances
+- 📊 Dashboard & statistiques
+- 🤖 Assistant IA (prototype)
+
+---
+
+## 📸 Preview
+
+![login](assets/screenshots/login.png)
+![Dashboard](assets/screenshots/tableau-de-bord.png)
+![users](assets/screenshots/users.png)
+![Patients](assets/screenshots/patients.png)
+![doctors](assets/screenshots/doctors.png)
+![ai](assets/screenshots/ai.png)
+![reports](assets/screenshots/reports.png)
+
+---
+
+## 🧱 Architecture
+
+- Frontend : React + Vite
+- Backend : Laravel API
+- IA : Python (logique médicale)
+- Database : PostgreSQL
+
+---
+
+## 🎯 Objective
+
+Ce projet vise à reproduire une solution complète utilisée dans les environnements médicaux modernes.
+
+---
+
+## 🔒 Source Code
+
+Le code source est privé.  
+Disponible sur demande pour évaluation technique.
+
+---
