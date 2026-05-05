@@ -33,13 +33,19 @@ Elle permet de centraliser les données patients, les consultations et d’inté
 ---
 
 ## 📸 Preview
-
+### 🔐 Connexion
 ![login](assets/screenshots/login.png)
+### 📊 Tableau de bord
 ![Dashboard](assets/screenshots/tableau-de-bord.png)
+### 👤 Gestion des utilisateurs
 ![users](assets/screenshots/users.png)
+### 🧑‍🤝‍🧑 Gestion des patients
 ![Patients](assets/screenshots/patients.png)
+### 👨‍⚕️ Gestion des médecins
 ![doctors](assets/screenshots/doctors.png)
+### 🤖 Assistant IA
 ![ai](assets/screenshots/ai.png)
+### 📈 Rapports & Statistiques
 ![reports](assets/screenshots/reports.png)
 
 ---
