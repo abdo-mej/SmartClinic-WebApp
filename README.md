@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SmartClinic Enterprise Upgrade
 
 SmartClinic Enterprise is an upgraded clinic management application with a professional React frontend, Laravel API blueprint, PostgreSQL/MySQL-ready database model and Python AI service.
@@ -72,3 +73,78 @@ All accounts use password: `password`
 ## Important production note
 
 This is an academic/prototype upgrade. Before real clinic production use, the application needs legal compliance, secure hosting, encrypted storage, audit trails, professional medical validation, and data protection review.
+=======
+# 🧠 SmartClinic — Intelligent Medical Management System
+
+<p align="center">
+  <a href="https://smart-clinic-web-app.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
+---
+
+## 🚀 Overview
+
+SmartClinic est une application web intelligente dédiée à la gestion des cabinets médicaux.  
+Elle permet de centraliser les données patients, les consultations et d’intégrer une logique d’aide médicale.
+
+---
+
+## 🌐 Live Application
+
+👉 https://smart-clinic-web-app.vercel.app/
+
+---
+
+## ✨ Key Features
+
+- 👨‍⚕️ Gestion des patients
+- 📅 Rendez-vous & planning
+- 📋 Consultations médicales
+- 🧾 Ordonnances
+- 📊 Dashboard & statistiques
+- 🤖 Assistant IA (prototype)
+
+---
+
+## 📸 Preview
+### 🔐 Connexion
+![login](assets/screenshots/login.png)
+### 📊 Tableau de bord
+![Dashboard](assets/screenshots/tableau-de-bord.png)
+### 👤 Gestion des utilisateurs
+![users](assets/screenshots/users.png)
+### 🧑‍🤝‍🧑 Gestion des patients
+![Patients](assets/screenshots/patients.png)
+### 👨‍⚕️ Gestion des médecins
+![doctors](assets/screenshots/doctors.png)
+### 🤖 Assistant IA
+![ai](assets/screenshots/ai.png)
+### 📈 Rapports & Statistiques
+![reports](assets/screenshots/reports.png)
+
+---
+
+## 🧱 Architecture
+
+- Frontend : React + Vite
+- Backend : Laravel API
+- IA : Python (logique médicale)
+- Database : PostgreSQL
+
+---
+
+## 🎯 Objective
+
+Ce projet vise à reproduire une solution complète utilisée dans les environnements médicaux modernes.
+
+---
+
+## 🔒 Source Code
+
+Le code source est privé.  
+Disponible sur demande pour évaluation technique.
+
+---
+>>>>>>> 291de5c746f80e4fa7e94c3bbb7968583239a79e
